@@ -1,0 +1,58 @@
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.exe
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.deps.json
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.runtimeconfig.json
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.runtimeconfig.dev.json
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.dll
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.pdb
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.csproj.AssemblyReference.cache
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.AssemblyInfoInputs.cache
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.AssemblyInfo.cs
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.csproj.CoreCompileInputs.cache
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.csproj.CopyComplete
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.dll
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.pdb
+D:\Larisa\Documents\Visual Studio 2019\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.genruntimeconfig.cache
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.csproj.AssemblyReference.cache
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.AssemblyInfoInputs.cache
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.AssemblyInfo.cs
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.csproj.CoreCompileInputs.cache
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.dll
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.pdb
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.exe
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.deps.json
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.runtimeconfig.json
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.runtimeconfig.dev.json
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.dll
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.pdb
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yablonovsky\Downloads\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.genruntimeconfig.cache
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.exe
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.deps.json
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.runtimeconfig.json
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.runtimeconfig.dev.json
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.dll
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\ConsoleAppAffinn.pdb
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.csproj.AssemblyReference.cache
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.AssemblyInfoInputs.cache
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.AssemblyInfo.cs
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.csproj.CoreCompileInputs.cache
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.dll
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.pdb
+C:\Users\Yablonovsky\Desktop\Учебные файлы\1 Магистратура\2 курс\AR и VR\ConsoleAppAffinn\ConsoleAppAffinn\ConsoleAppAffinn\obj\Debug\netcoreapp3.1\ConsoleAppAffinn.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleAppAffinn": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Yablonovsky\\Downloads\\ConsoleAppAffinn\\ConsoleAppAffinn\\PutIN.jpg"
+    }
+  }
+}
